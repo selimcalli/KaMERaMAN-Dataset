@@ -30,8 +30,8 @@ Usage Constraints: Users are free to share and adapt this material for non-comme
 All raw data used to generate this dataset are publicly available. 
 Detailed citations for each regional source (Alps, Atlas, Taurus, Zagros, etc.) are provided in the accompanying manuscript.
 
-Region Original Data Source 
 Original License Austria "ehyd.gv.at" / CC BY-NC 4.0 
+
 All Other Regions Public Domain / CC BY 4.0 (or equivalent public license)
 
 3. File Overview
