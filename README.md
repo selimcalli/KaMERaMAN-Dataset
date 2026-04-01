@@ -1,5 +1,5 @@
 # KaMERaMAN-Dataset
-KAMERaMAN dataset includes karst sprig discharge dataset from the mountain regions surrounding Euro-Mediterranean region.
+KaMERaMAN dataset includes karst spring discharge dataset from the mountain regions surrounding Euro-Mediterranean region.
 
 README: KaMERaMAN
 
@@ -19,6 +19,10 @@ DOI:
 1. License Information
 
 This dataset is a compilation and harmonization of multiple public data sources.
+* Direct download of the public data from national hydrometeorological institutions,
+* Digitization of the published theses, reports, and discharge annuals,
+* Directly shared data by the colleagues.
+
 This aggregate dataset is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 Reason for License Choice: This license was selected to comply with the restrictive requirements of the constituent data sourced from Austria (licensed under CC BY 4.0 NC), which prohibits commercial redistribution.
@@ -37,9 +41,9 @@ All Other Regions Public Domain / CC BY 4.0 (or equivalent public license)
 3. File Overview
 Kameraman_metadata.csv: Contains site-specific information as below:
 
-Region		Country	#	Spring Name/Station Name	Literature			Lat	Lon	Elev (m)	Recharge Area (km2)	Start Date	End Date	Resolution	Data Source	Data License	Contact For License
+Region	Country	#ID	Spring Name	Literature	Lat/Lon/Elev(m)	Recharge Area(km2)	Start/End Date	Resolution	Source License	Contact
 
-Alps		Austria		Aubachquelle			Cinkus et al. (2023)		47.36	10.172	1078		NA			1.1.1999	31.12.2022	Daily		ehyd.gv.at	CC BY NC 4.0	Simon Seelig, Jutta Eybl
+Alps	Austria	Aubachquelle	Cinkus et al.(2023)	47.36/10.172/1078	NA	1.1.1999/31.12.2022	Daily	ehyd.gv.at	CC BY NC 4.0	Simon Seelig, Jutta Eybl
 		...		...
 
 
