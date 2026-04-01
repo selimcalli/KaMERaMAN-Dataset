@@ -4,10 +4,15 @@ KAMERaMAN dataset includes karst sprig discharge dataset from the mountain regio
 README: KaMERaMAN
 
 General Information Dataset Title: Karst Mountains of Euro Mediterranean: Modeling, Analysis, and Network
+
 Principal Investigator: Süleyman Selim Çallı
+
 Affiliation: Ankara Üniversitesi, Department of Geological Engineering, Ankara, Türkiye
+
 Contact Information: scalli@ankara.edu.tr
+
 Date of Data Publication: 1 April 2026
+
 DOI: 
 
 
