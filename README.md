@@ -38,6 +38,7 @@ All Other Regions Public Domain / CC BY 4.0 (or equivalent public license)
 Kameraman_metadata.csv: Contains site-specific information as below:
 
 Region		Country	#	Spring Name/Station Name	Literature			Lat	Lon	Elev (m)	Recharge Area (km2)	Start Date	End Date	Resolution	Data Source	Data License	Contact For License
+
 Alps		Austria		Aubachquelle			Cinkus et al. (2023)		47.36	10.172	1078		NA			1.1.1999	31.12.2022	Daily		ehyd.gv.at	CC BY NC 4.0	Simon Seelig, Jutta Eybl
 		...		...
 
