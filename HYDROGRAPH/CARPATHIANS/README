@@ -10,6 +10,6 @@ PDF documents.
 The data source of the Czechian karst springs is National Hydrological Database of Czechia accessed via "https://isvs.chmi.cz/ords/f?p=11002:2:105656156435140:::RP,2:P2_SEQ:%5C759%5C" 
 The Czechian data is directly downloaded from the platform. 
 
-Serbian data is directly downloaded from the WOKAS database as digital data. 
+Serbian data is directly downloaded from the WOKAS database as digital data "https://github.com/iGW-TU-Dresden/WoKas". 
 
 For more information, please see Metadata table.
