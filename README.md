@@ -23,7 +23,7 @@ This dataset is a compilation and harmonization of multiple public data sources.
 
 This aggregate dataset is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
-Reason for License Choice: This license was selected to comply with the restrictive requirements of the constituent data sourced from Austria (licensed under CC BY 4.0 NC), which prohibits commercial redistribution.
+Reason for License Choice: This license was selected to comply with the restrictive requirements of the constituent data sourced from Austria (licensed under CC BY-NC), which prohibits commercial redistribution.
 
 Usage Constraints: Users are free to share and adapt this material for non-commercial purposes, provided appropriate credit is given to the authors and the original data providers cited herein.
 
