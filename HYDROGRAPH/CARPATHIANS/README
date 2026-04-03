@@ -4,7 +4,12 @@ Slovakian data is provided by Peter Malik (peter.malik@geology.sk)
 Czechian data is recommended by Pavel Pracny (pracny@sci.muni.cz)
 Serbian data is obtained from WOKAS database.
 
-The original source of the Slovakian data is Slovakian Hydrometeorological Service "https://www.shmu.sk/sk/?page=2649" 
-The data source of the Czechian karst springs is National Hydrological Database of Czechia "https://isvs.chmi.cz/ords/f?p=11002:2:105656156435140:::RP,2:P2_SEQ:%5C759%5C" 
+The original source of the Slovakian data is Slovakian Hydrometeorological Service "https://www.shmu.sk/sk/?page=2649" published in PDF reports.
+The Slovakian data are digitized by the data curator team and cross-validated by the comparison of hydrograph plots given in the 
+PDF documents. 
+The data source of the Czechian karst springs is National Hydrological Database of Czechia accessed via "https://isvs.chmi.cz/ords/f?p=11002:2:105656156435140:::RP,2:P2_SEQ:%5C759%5C" 
+The Czechian data is directly downloaded from the platform. 
+
+Serbian data is directly downloaded from the WOKAS database as digital data. 
 
 For more information, please see Metadata table.
