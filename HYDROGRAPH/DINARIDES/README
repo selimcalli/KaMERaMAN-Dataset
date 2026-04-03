@@ -1,1 +1,22 @@
+## Dinarides region host 11 karst springs from 3 countries.
 
+The Bosnian data is downloaded from the discharge annulas from the Federal Hydrometeorological Service of Bosnia and Herzegovina, and digitized by the data curator team.
+The original data source can be accessed via "https://www.fhmzbih.gov.ba/latinica/HIDRO/godisnjaci.php".
+The Bosnian data is open-access (equivalent to CC BY 4.0) without any restriction.
+
+Slovenian data is provided by 
+Natasa Ravbar (natasa.ravbar@zrc-sazu.si) and 
+Cyril Mayaud (cyril.mayaud@zrc-sazu.si). 
+
+Original data source of Slovenian karst springs is "https://vode.arso.gov.si"
+
+Croatian data are accessed via 2 different platforms (i) WOKAS database, and (ii) the National Hydrometeorological Service of Croatia 
+via the link "https://hidro.dhz.hr/".
+The platform consisting of the surface flow measurements. We checked the stream gauging stations (with minimum upstream drainage) 
+which are locaetd at karst regions and assumed that these stations are representative for karst spring discharge. We also checked the 
+hydrograph shape to cross-validate the karst-specific rising and falling limbs in the hydrographs.
+
+The data can be exported as visual formats (e.g. jpeg) and then digitized. Alternatively, the data is open for manual collection
+inside the Croation Hydrometeorological Service platform.
+
+For further information, please see Metadta table.
