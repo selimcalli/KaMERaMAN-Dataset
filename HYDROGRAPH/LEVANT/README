@@ -4,7 +4,7 @@ Lebanese and Syrian karst springs data are obtained from the WOKAS database.
 
 Israeli data is obtained from 2 different sources:
 
-Daily discharge data are obtained from the WOKAS database.
+Daily discharge data are obtained from the WOKAS database "https://github.com/iGW-TU-Dresden/WoKas".
 Monthly discharge data are provided by Avi Burg (burg@gsi.gov.il).
 
 Original data provider for the Israeli karst springs is the National Hydrometeorological Service of Israel "https://data.gov.il/he/datasets/water_authority/spring_discharge/"
