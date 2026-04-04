@@ -165,37 +165,70 @@ For further questions, please contact to Süleyman Selim Çallı: scalli@ankara.
 1Süleyman Selim Çallı, 2Brahim Akdim, 3Bruno Arfib, 4Aleksey Benderev, 5Sandra Beranger, 6Avi Burg, 1,7Onur Can, 8,9Jean-Baptiste Charlier, 1Mehmet Çelik, 1,7Arda Melih Çetin, 10Miroslava Deliyska, 11Lucio Di Matteo, 12Marco Dionigi, 13Romeo Eftimi, 14Jutta Eybl,  15Chemseddine Fehdi,  16Davide Fronzi, 17Nico Goldscheider, 18 Ergin Gökkaya, 19Jorge Jódar, 20Hervé Jourde, 21Eva Kaminsky, 22 Konstantina Katsanou, 23Alireza Kavousi, 7,24Melike Kaya, 25David Labat, 17Tanja Liesch, 26Peter Malik, 12Christian Massari, 27,28Cyril Mayaud, 29Naomi Mazzilli, 30Kübra Özdemir Çallı, 31Pavel Pracný, 27,28Nataša Ravbar, 3,32Nathan Rispal, 33Simon Seelig, 20Vianney Sivelle, 34Marc Steinmann, 11Daniela Valigi, 33Gerfried Winkler,  7Ahmet Kemal Yahşi, 30Andreas Hartmann
 
 1 Ankara University Faculty of Engineering, Geological Engineering Department, 06830, Ankara, Türkiye
+
 2 Université Privée de Fez, Fez, Morocco.
+
 3 Aix Marseille Univ., CNRS, IRD, INRAE, CEREGE, Aix-en-Provence, France.
+
 4 Geological Institute, Bulgarian Academy of Sciences, Acad. G. Bonchev Str., bl.24, 1113, Sofia, Bulgaria
+
 5 Bureau de Recherches Géologiques et Minières-Délégation Régionale Occitanie-Sitede Toulouse, 31520 Ramonville-Saint-Agne, France
+
 6 Geological Survey of Israel, Jerusalem, Israel
+
 7 Ankara University Karst Research Community UNIKARST, 06830, Ankara, Türkiye
+
 8 BRGM, Univ. Montpellier, Montpellier, France
+
 9 G-EAU, Univ Montpellier, AgroParisTech, BRGM, CIRAD, INRAE, Institut Agro, IRD, Montpellier, France
+
 10 Climate, Atmosphere and Water Research Institute, Bulgarian Academy of Sciences, . Tsarigradsko shose Bld. 66, 1784 Sofia, Bulgaria
+
 11 University of Perugia, Department of Physics and Geology, Via Pascoli snc, 06123, Perugia, Italy.
+
 12 Research Institute for Geo-hydrological Protection (IRPI), National Research Council (CNR), Perugia, Italy.
+
 13 Independent Researcher, Tirana, Albania
+
 14 Federal Ministry of Agriculture and Forestry, Climate and Environmental Protection, Regions and Water Management, Marxergasse 2, 1030 Vienna, Austria
+
 15 University of Tebessa, Department of Earth Sciences and Univers , 12002, Tebessa, Algeria.
+
 16 Università Politecnica delle Marche, Department of Materials, Environmental Sciences and Urban Planning, Via Brecce Bianche 12, 60131, Ancona, Italy
+
 17 Karlsruhe Institute of Technology (KIT), Institute of Applied Geosciences, 76131 Karlsruhe, Germany
+
 18 Department of Geography, Niğde Ömer Halisdemir University, 51240 Niğde, Türkiye
+
 19 Geological Survey of Spain - Spanish Research Council  (IGME-CSIC), Zaragoza, Spain
+
 20 Hydrosciences Montpellier (HSM), University of Montpellier, CNRS, IRD, Montpellier, France
+
 21 Karst and Cave Group, Geological Paleontological Department, Natural History Museum, Vienna, Austria
+
 22 Department of Water Resources and Ecosystems, IHE Delft Institute for Water Education, Delft, The Netherlands
+
 23 State Authority for Mining, Energy, and Geology in Lower Saxony (LBEG), 30655, Hannover, Germany
+
 24 Ankara University Faculty of Engineering, Computer Engineering Department, 06830, Ankara, Türkiye
+
 25 University of Toulouse - Lab Geosciences Environnement Toulouse UMR CNRS-IRD-UT-CNES 14 Avenue Edouard Belin 31400 Toulouse
+
 26 Štátny geologický ústav Dionýza Štúra – Geological Survey of Slovak Republic, Mlynská dolina 1, 817 04 Bratislava 11, Slovakia
+
 27 ZRC SAZU Karst Research Institute, Titov trg 2, 6230 Postojna, Slovenia. 
+
 28 UNESCO Chair on Karst Education, University of Nova Gorica, Glavni trg 8, 5271 Vipava, Slovenia
+
 29 UMR 1114 EMMAH (AU-INRAE), Université d’Avignon, Avignon 84000, France
+
 30 Institute of Groundwater Management, TUD Dresden University of Technology, Dresden, Germany
+
 31 Masaryk University Department of Geological Sciences, Brno, Czechia
+
 32 Univ. Côte d'Azur, Polytech'Lab- UPR 7498, Sophia- Antipolis, France
+
 33 Department of Earth Sciences, NAWI Graz Geocenter, University of Graz, Heinrichstraße 26, 8010 Graz, Austria
+
 34 University Marie and Louis Pasteur, Chrono-environnement, UMR CNRS 6249, 25000 Besançon, France
 
