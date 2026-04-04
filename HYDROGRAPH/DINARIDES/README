@@ -13,10 +13,11 @@ Original data source of Slovenian karst springs is "https://vode.arso.gov.si"
 Croatian data are accessed via 2 different platforms (i) WOKAS database, and (ii) the National Hydrometeorological Service of Croatia 
 via the link "https://hidro.dhz.hr/".
 The platform consisting of the surface flow measurements. We checked the stream gauging stations (with minimum upstream drainage) 
-which are locaetd at karst regions and assumed that these stations are representative for karst spring discharge. We also checked the 
-hydrograph shape to cross-validate the karst-specific rising and falling limbs in the hydrographs.
+which are located at karst regions and assumed that these stations are representative for karst spring discharge. We also checked
+the station photos (where provided by the dhz) and hydrograph shape to cross-validate the karst-specific rising and falling limbs.
 
-The data can be exported as visual formats (e.g. jpeg) and then digitized. Alternatively, the data is open for manual collection
-inside the Croation Hydrometeorological Service platform.
 
-For further information, please see Metadta table.
+The data cannot be downloaded as digital files, can be exported as visual formats (e.g. jpeg) for digitization, or downloadable in .html format.
+
+
+For further information, please see Metadata table.
