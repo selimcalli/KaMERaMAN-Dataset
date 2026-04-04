@@ -1,7 +1,7 @@
 # KaMERaMAN-Dataset
 KaMERaMAN includes karst spring discharge dataset from the mountain regions surrounding Euro-Mediterranean region.
 
-General Information Dataset Title: Karst Mountains of Euro Mediterranean: Modeling, Analysis, and Network
+General Information Dataset Title: Karst Mountains of Euro Mediterranean: Modeling, Analysis, and Network.
 
 Principal Investigator: Süleyman Selim Çallı
 
