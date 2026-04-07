@@ -5,7 +5,7 @@ General Information Dataset Title: Karst Mountains of Euro Mediterranean: Modeli
 
 Principal Investigator: Süleyman Selim Çallı
 
-Affiliation: Ankara Üniversitesi, Department of Geological Engineering, Ankara, Türkiye
+Affiliation: Ankara University, Department of Geological Engineering, Ankara, Türkiye
 
 Contact Information: scalli@ankara.edu.tr
 
