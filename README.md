@@ -11,7 +11,7 @@ Contact Information: scalli@ankara.edu.tr
 
 Date of Data Publication: 1 April 2026
 
-DOI: 
+DOI: 10.5281/zenodo.19448791
 
 
 1. License Information
