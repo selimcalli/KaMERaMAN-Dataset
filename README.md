@@ -11,7 +11,13 @@ Contact Information: scalli@ankara.edu.tr
 
 Date of Data Publication: 1 April 2026
 
-DOI: 10.5281/zenodo.19448791
+DOI: 
+
+How to cite this dataset:
+[Your Name(s)], (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions. Zenodo. https://doi.org/10.5281/zenodo.19448791
+
+Related Publication (Preprint):
+[Your Name(s)], (2026). [Manuscript Title]. Earth Syst. Sci. Data Discuss. [in review]. https://doi.org/[Your-Preprint-DOI]
 
 
 1. License Information
