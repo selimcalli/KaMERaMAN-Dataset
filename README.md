@@ -1,6 +1,17 @@
-<p align="right">
-  <img src="assets/KAMERAMAN_Logo.png" width="200"/>
-</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="assets/KAMERAMAN_Logo.png" width="180"/>
+    </td>
+    <td>
+      <h1>KaMERaMAN-Dataset</h1>
+      <p>
+        Karst Mountains of Euro Mediterranean:<br>
+        Modeling, Analysis and Network
+      </p>
+    </td>
+  </tr>
+</table>
 
 # KaMERaMAN-Dataset
 
