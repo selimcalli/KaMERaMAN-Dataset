@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="assets/KAMERAMAN_Logo.png" width="250"/>
+  <img src="assets/KAMERAMAN_Logo.png" width="300"/>
 </p>
+
 # KaMERaMAN-Dataset
+
 KaMERaMAN includes karst spring discharge dataset from the mountain regions surrounding Euro-Mediterranean region.
 
 General Information Dataset Title: Karst Mountains of Euro Mediterranean: Modeling, Analysis, and Network.
