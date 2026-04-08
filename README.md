@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="200">
+    <td width="250">
       <img src="assets/KAMERAMAN_Logo.png" width="250"/>
     </td>
     <td>
