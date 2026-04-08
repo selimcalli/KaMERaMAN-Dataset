@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="assets/KAMERAMAN_Logo.png" width="180"/>
+      <img src="assets/KAMERAMAN_Logo.png" width="250"/>
     </td>
     <td>
       <h1>KaMERaMAN-Dataset</h1>
