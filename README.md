@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/KAMERAMAN_Logo.png" width="500"/>
+<p align="right">
+  <img src="assets/KAMERAMAN_Logo.png" width="200"/>
 </p>
 
 # KaMERaMAN-Dataset
