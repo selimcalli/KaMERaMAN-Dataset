@@ -28,7 +28,8 @@ Date of Data Publication: 1 April 2026
 DOI: 
 
 How to cite this dataset:
-Çallı S.S., Akdim B., Arfib B., Benderev A., Beranger S., Burg A., Can O., Charlier J-B., Çelik M., Çetin A.M., Chemseddine F., Delisyka M., Di Matteo L., Dionigi M., Eftimi R., Eybl J., Fronzi D., Goldscheider N., Gökkaya E., Jodar J., Jourde H., Kaminsky E., Katsanu K., Kavousi A., Kaya M., Labat D., Liesch T., Malik P., Massari C., Mayaud C., Mazzilli N., Pracny P., Ravbar N., Rispal N., Seelig S.., Sivelle V., Steinmann M., Valigi D., Winkler G., Yahşi A.K., Çallı K.Ö., Hartmann A. (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions. Zenodo. https://doi.org/10.5281/zenodo.19448791
+Çallı S.S., Çallı K.Ö., Akdim B., Arfib B., Benderev A., Beranger S., Burg A., Can O., Charlier J-B., Çelik M., Çetin A.M., Chemseddine F., Delisyka M., Di Matteo L., Dionigi M., Eftimi R., Eybl J., Fronzi D., Goldscheider N., Gökkaya E., Jodar J., Jourde H., Kaminsky E., Katsanu K., Kavousi A., Kaya M., Labat D., Liesch T., Malik P., Massari C., Mayaud C., Mazzilli N., Pracny P., Ravbar N., Rispal N., Seelig S.., Sivelle V., Steinmann M., Valigi D., Winkler G., Yahşi A.K., Hartmann A. (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions (V1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19448791
+
 
 Related Publication (Preprint):
 [Your Name(s)], (2026). [Manuscript Title]. Earth Syst. Sci. Data Discuss. [in review]. https://doi.org/[Your-Preprint-DOI]
