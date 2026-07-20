@@ -67,7 +67,7 @@ Alps	Austria	Aubachquelle	Cinkus et al.(2023)	47.36/10.172/1078	NA	1.1.1999/31.1
 
 
 
-Hydrograph data: The hydrograph data folder includes 118 discharge time series which are named according to:
+Hydrograph data: The hydrograph data folder includes 122 discharge time series which are named according to:
 
 [3-digit Region code]_[ID Number 01-99]_[2-digit Country ISO code]@Spring name.csv
 
@@ -182,7 +182,7 @@ For further questions, please contact to Süleyman Selim Çallı: scalli@ankara.
 
 6. Full Collaborator List and Affiliations:
 
-1Süleyman Selim Çallı, 2Brahim Akdim, 3Bruno Arfib, 4Aleksey Benderev, 5Sandra Beranger, 6Avi Burg, 1,7Onur Can, 8,9Jean-Baptiste Charlier, 1Mehmet Çelik, 1,7Arda Melih Çetin, 10Miroslava Deliyska, 11Lucio Di Matteo, 12Marco Dionigi, 13Romeo Eftimi, 14Jutta Eybl,  15Chemseddine Fehdi,  16Davide Fronzi, 17Nico Goldscheider, 18 Ergin Gökkaya, 19Jorge Jódar, 20Hervé Jourde, 21Eva Kaminsky, 22 Konstantina Katsanou, 23Alireza Kavousi, 7,24Melike Kaya, 25David Labat, 17Tanja Liesch, 26Peter Malik, 12Christian Massari, 27,28Cyril Mayaud, 29Naomi Mazzilli, 30Kübra Özdemir Çallı, 31Pavel Pracný, 27,28Nataša Ravbar, 3,32Nathan Rispal, 33Simon Seelig, 20Vianney Sivelle, 34Marc Steinmann, 11Daniela Valigi, 33Gerfried Winkler,  7Ahmet Kemal Yahşi, 30Andreas Hartmann
+1Süleyman Selim Çallı, 2Brahim Akdim, 3Bruno Arfib, 4Aleksey Benderev, 5Sandra Beranger, 6Avi Burg, 1,7Onur Can, 8,9Jean-Baptiste Charlier, 1Mehmet Çelik, 1,7Arda Melih Çetin, 10Miroslava Deliyska, 11Lucio Di Matteo, 12Marco Dionigi, 13Romeo Eftimi, 14Jutta Eybl,  15Chemseddine Fehdi,  16Davide Fronzi, 17Nico Goldscheider, 18 Ergin Gökkaya, 19Jorge Jódar, 20Hervé Jourde, 21Eva Kaminsky, 22 Konstantina Katsanou, 23Alireza Kavousi, 7,24Melike Kaya, 25David Labat, 17Tanja Liesch, 26Peter Malik, 12Christian Massari, 27,28Cyril Mayaud, 29Naomi Mazzilli, 30Kübra Özdemir Çallı, 31Pavel Pracný, 27,28Nataša Ravbar, 3,32Nathan Rispal, 33Simon Seelig, 20Vianney Sivelle, 34Marc Steinmann, 11Daniela Valigi, 33Gerfried Winkler,  7Ahmet Kemal Yahşi, 36,37Istvan Gabor Hatvani, 35,36,37Zoltan Kern, 30Andreas Hartmann
 
 1 Ankara University Faculty of Engineering, Geological Engineering Department, 06830, Ankara, Türkiye
 
@@ -251,4 +251,10 @@ For further questions, please contact to Süleyman Selim Çallı: scalli@ankara.
 33 Department of Earth Sciences, NAWI Graz Geocenter, University of Graz, Heinrichstraße 26, 8010 Graz, Austria
 
 34 University Marie and Louis Pasteur, Chrono-environnement, UMR CNRS 6249, 25000 Besançon, France
+
+35 Institute for Geological and Geochemical Research, HUN-REN Research, Centre for Astronomy and Earth Sciences, Budapest, Budaörsi út 	   45, H-1112, Hungary
+
+36 HUN-REN CSFK, MTA Centre of Excellence, Budapest, Konkoly Thege Miklós út 15-17., H-1121, Hungary
+
+37 Institute of Geography and Environmental Sciences, Eszterházy Károly University, H3300 Eger, Hungary
 
