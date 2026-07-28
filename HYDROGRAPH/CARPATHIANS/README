@@ -1,9 +1,10 @@
-## Carpathians host 12 karst springs from 4 countries.
+## Carpathians host 15 karst springs from 5 countries.
 
 Slovakian data is provided by Peter Malik (peter.malik@geology.sk) 
 Czechian data is recommended by Pavel Pracny (pracny@sci.muni.cz)
 Serbian data is obtained from WOKAS database.
 Hungarian data is provided by Istvan Gabor Hatvani (hatvaniig@gmail.com) and Zoltan Kern (kern.zoltan@csfk.org).
+Romanian data is provided by Virgil Dragusin (vdragusin@yahoo.com) and Huan Fang Dang.
 
 The original source of the Slovakian data is Slovakian Hydrometeorological Service "https://www.shmu.sk/sk/?page=2649" published in PDF reports.
 The Slovakian data are digitized by the data curator team and cross-validated by the comparison of hydrograph plots given in the 
@@ -13,6 +14,6 @@ The Czechian data is directly downloaded from the platform.
 
 Serbian data is directly downloaded from the WOKAS database as digital data "https://github.com/iGW-TU-Dresden/WoKas". 
 
-Hungarian data are digitally provided by the collaborators mentioned above.
+Hungarian and Romanian data are provided by the collaborators in digital format.
 
 For more information, please see Metadata table.
