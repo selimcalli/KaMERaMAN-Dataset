@@ -2,7 +2,7 @@
 Country;France
 #;5
 Spring Name/Station Name;Font Maure
-Literature;Marechal et al. (2018)
+Literature;Bailly-Comte et al. 2018
 Lat;42.843
 Lon;2.203
 Elev (m);317
@@ -10,9 +10,9 @@ Recharge Area (km2);
 Start Date;27.03.2002
 End Date;25.08.2026
 Resolution;Daily
-Data Source;JC Marechal, S Beranger
+Data Source;S Beranger, V Bailly-Comte, JC Marechal & B Ladouche
 Data License;CC BY 4.0
-Contact For License;JC Marechal, B Ladouche, V Bailly-Comte
+Contact For License;S Beranger, V Bailly-Comte, JC Marechal & B Ladouche
 Spring ID;PYR_05_FR
 Date;Discharge (L/s)
 2002-03-27T00:00:00.000Z;0.0300
