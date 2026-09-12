@@ -28,7 +28,7 @@ Date of Data Publication: 1 April 2026
 
 How to cite this dataset:
 
-Çallı, S. S., Özdemir Çallı, K., Akdim, B., Arfib, B., Benderev, A., Beranger, S., Burg, A., Can, O., Charlier, J.-B., Çelik, M., Çetin, A. M., Chemseddine, F., Deliyska, M., Di Matteo, L., Dionigi, M., Eftimi, R., Eybl, J., Fronzi, D., Goldscheider, N., … Hartmann, A. (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions (V1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21768736
+Çallı, S. S., Özdemir Çallı, K., Akdim, B., ARFIB, B., Bailly-Comte, V., Benderev, A., BERANGER, S., Burg, A., Can, O., Charlier, J.-B., Çelik, M., Çetin, A. M., Chemseddine, F., Deliyska, M., Di Matteo, L., Dionigi, M., Dragusin, V., Eftimi, R., Eybl, J., … Hartmann, A. (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22729546
 
 Related Publication (Preprint):
 Çallı, S. S. et al. (2026). High-Resolution Karst Spring Discharge Datasets of the Euro-Mediterranean Mountain Regions. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2026-281.
